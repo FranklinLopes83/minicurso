@@ -1,2 +1,2 @@
-# Minicurso
-minicurso Cataliza 2022 API Rick and Morty
+# Desafio
+Minicurso Catalisa 2022 API Rick and Morty
